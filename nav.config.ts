@@ -79,7 +79,7 @@ const c: IConfig = {
   simThemeConfig: {
     // 海报图
     posterImageUrls: [
-      'https://raw.sevencdn.com/xjh22222228/nav/image/sim-wallpaper.jpg'
+      'https://raw.githubusercontent.com/notaganin/nav/image/sim-wallpaper.jpg'
     ],
     description: '这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活'
   }
